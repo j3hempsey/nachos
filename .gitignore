@@ -1,2 +1,3 @@
 #Ignore .class files
-/proj0/**/*.class
+/proj0/*/*/*.class
+
